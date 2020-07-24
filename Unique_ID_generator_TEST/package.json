@@ -1,0 +1,9 @@
+{
+  "name": "Unique_ID_generator_TEST",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@krzysztof_g/randomid-generator": "^1.0.0"
+  }
+}
